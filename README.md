@@ -1,5 +1,7 @@
 # EVC Optimization R5：TrackQueryHead + P32v7
 
+> 仓库：<https://github.com/chiyiyiyi/EVC-Optimization-R5>
+
 ## 核心三点
 
 ### 1. 最优得分
